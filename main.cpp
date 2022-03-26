@@ -1,7 +1,7 @@
 #include"calculator.h"
 #include"interface.h"
 
-#define _INTERFACE
+#define _INTERFACE//控制应用或者计算器
 
 int main(int arg,char** argv) {
 #ifdef _INTERFACE
